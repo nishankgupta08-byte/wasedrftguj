@@ -1,0 +1,6 @@
+{
+  "name": "Focus",
+  "description": "An offline-first task manager and mindfulness dashboard with custom category lists, interactive sub-task checklists, progress rings, and powerful filtering options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
